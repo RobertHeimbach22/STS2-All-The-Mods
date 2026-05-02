@@ -1,0 +1,11 @@
+{
+  "id": "ColoredMapS2",
+  "name": "Colored Map S2",
+  "author": "Alex2ndrite",
+  "description": "Make the map icons have different colors, like mod \"Colored Map\". in STS1.",
+  "version": "v0.1.1",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false,
+  "dependencies": [ "BaseLib" ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "CustomCharHiro",
+  "name": "二阶堂希罗角色模组",
+  "author": "clancy_pinkie",
+  "description": "可操控《魔法少女的魔女审判》的角色二阶堂希罗，包含了新卡牌、角色专属机制等。",
+  "version": "v0.0.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}

@@ -1,0 +1,11 @@
+﻿{
+  "id": "Cirno",          
+  "name": "琪露诺",
+  "author": "SmileFiee",
+  "description": "关注B站SmileFiee谢谢喵",
+  "version": "0.5",
+  "has_pck": true,        
+  "has_dll": true,        
+  "dependencies": ["BaseLib"],     
+  "affects_gameplay": true 
+}
